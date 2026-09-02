@@ -11,4 +11,5 @@ libraries required by AMD/Xilinx Vivado to run on Ubuntu 24.04
 
 # all credit goes to 
 https://invisible-island.net/ncurses/
+
 https://ubuntu.com/
